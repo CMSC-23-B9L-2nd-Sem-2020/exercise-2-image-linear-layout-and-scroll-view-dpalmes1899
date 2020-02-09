@@ -34,10 +34,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/diceroller/MainActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+            <state relative-caret-position="259">
+              <caret line="90" column="48" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
               <folding>
                 <element signature="e#2635#2652#0" expanded="true" />
+                <element signature="e#2743#2763#0" expanded="true" />
+                <element signature="e#3124#3138#1" expanded="true" />
+                <element signature="e#3167#3187#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -307,7 +310,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22818792" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22818792" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -319,7 +322,7 @@
       <window_info anchor="bottom" id="Logcat" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49731544" visible="true" weight="0.3243626" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.49731544" visible="true" weight="0.3243626" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5026846" side_tool="true" visible="true" weight="0.3243626" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4986577" weight="0.33144477" />
@@ -400,10 +403,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/diceroller/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+        <state relative-caret-position="259">
+          <caret line="90" column="48" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
           <folding>
             <element signature="e#2635#2652#0" expanded="true" />
+            <element signature="e#2743#2763#0" expanded="true" />
+            <element signature="e#3124#3138#1" expanded="true" />
+            <element signature="e#3167#3187#1" expanded="true" />
           </folding>
         </state>
       </provider>
