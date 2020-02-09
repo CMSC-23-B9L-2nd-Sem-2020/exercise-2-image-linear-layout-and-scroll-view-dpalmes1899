@@ -1,0 +1,131 @@
+<!--
+  ~ Copyright (C) 2018 Google Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <!-- App title -->
+    <string name="app_name">exer2_palmes_b9l</string>
+
+    <!-- Header -->
+    <string name="header_name">Which Phineas and Ferb Character Are You ?</string>
+    <string name="header2">You Are</string>
+
+    <!-- Button label -->
+    <string name="roll_label">Start</string>
+    <string name="retry_label">Retry</string>
+
+    <string name="blank">Find out which Character are you ! \n</string>
+    <string name="name">Vince</string>
+
+    <!-- Bio -->
+    <string name="bio_phineas">Phineas Flynn-Fletcher is a young boy in the Flynn-Fletcher family. He is the son of Linda Flynn and step-son of Lawrence Fletcher.He is one of the three children of the Flynn-Fletcher household, along with his sister Candace
+and step-brother Ferb. He shares a strong bond with the family pet, Perry the Platypus,
+but remains unaware of his double life as a secret agent. \n\n
+As an incurable optimist, Phineas constantly looks on the brighter side of things. He is also extremely smart, creative, persistent, and able to endeavor
+ in immensely large projects and activities with the help of his step-brother. \n
+His hospitality is a driving force behind many of his plans.
+\n\n</string>
+
+    <string name = "bio_ferb">
+         Ferb Fletcher is a British child of the Fletcher family currently living
+        in the American city of Danville. He is the step-son of Linda Flynn and
+        son of Lawrence Fletcher. Being a native of England, he speaks with an
+        English accent. He is one of three children of the Flynn-Fletcher household
+        among his step-siblings and Candace Flynn. \n\n
+        Ferb speaks very rarely, but is not actually shallow as others would assume.
+        He is very courageous and has the ability to think quickly and stay calm in
+        the midst of desperate scenarios. A notable skill of his is a technical and
+        technological proficiency he shares with his stepbrother which he can easily
+        take advantage of and build almost anything he chooses to. \n\n
+    </string>
+
+    <string name ="bio_candace">
+        Candace Gertrude Flynn is the 15-year-old sister of Phineas Flynn and
+        the step-sister of Ferb Fletcher. The eldest child of the Flynn-Fletcher
+        household, \n
+        she spends large portions of her time striving, but never succeeding to get her
+        brothers in trouble for the things they do every day.
+        \n\n
+        A more successful venture that sometimes clashes with or overrides her
+        need to bust her brothers, is her infatuation with Jeremy Johnson.
+        While she isn\'\t doing these, she would often be seen conversing on the phone,
+        or hanging out with Stacy Hirano and less often Jenny Brown, where she
+        usually talks about Jeremy or tries to recruit their help in busting her
+        brothers. \n\n
+    </string>
+
+    <string name = "bio_platypus">
+        Perry the Platypus, code named Agent P, is Phineas and Ferb\'\s pet platypus,
+        who, unbeknownst to his owners, lives a double life as a secret agent for
+        the O.W.C.A. \n (The Organization Without a Cool Acronym a.k.a. "The Agency"),
+        a government organization of animal spies. In the Agency, his immediate
+        superior is Major Monogram. \n\n
+    </string>
+
+    <string name = "bio_doof">
+        Dr. Heinz Doofenhmirtz is a 47 year old evil scientist hailing from the
+        country of Drusselstein. He is the head of Doofenshmirtz Evil Incorporated.\n
+        He tends not to be evil in the traditional sense, but rather overly dramatic,
+        eccentric and generally clueless. His usual lair is an office building that he
+        apparently owns, though he has worked from other locations when necessary for his
+        plans. He attempts to wreak generally "evil" havoc and assert his rule across the
+        entire Tri-State Area. Despite true dedication to this mission, almost all of his
+        plans have been thwarted by his nemesis Perry the Platypus, though a few turn out
+        to be successful in nature. \n\n
+    </string>
+
+    <string name="bio_monogram">
+        Major Francis Monogram or, as he likes to be known, simply Major Monogram
+        (due to the fact that people often tease him about his first name) is Agent P\'\s
+        commanding officer, and gives him his mission in each day. Helping him transmit
+        his daily messages and do general things around the Agency is his intern, Carl.
+    </string>
+
+    <string name="bio_isabela">
+         Isabella Garcia-Shapiro is the across-the-street neighbor and good friend
+        of Phineas and Ferb. Isabella has a crush on Phineas; however, she doesn\'\t
+        tell him. \n She\'\s the leader of Fireside Girls Troop 46231 and often
+        volunteers to help in Big Ideas, usually with her troop being involved. \n\n
+        Isabella is cheerful, fearless, quick-thinking, sweet, optimistic, and easy to
+        get along with. She is always eager to help with Phineas and Ferb\'\s Big Ideas.
+        When she participates with Phineas and Ferb in their endeavors, it\'\s either
+        for the fun of it, accomplishment patches, or simply a way to be with Phineas.\n\n
+
+    </string>
+
+    <string name="bio_carl">
+        Carl Karl, nicknamed Carl the Intern, Dr. Coconut and Squirrel-Man by
+        Dr. Doofenshmirtz, is the hapless intern and cameraman of Major Monogram.
+        He is an intern and is very loyal to Major Monogram.
+        He works at the O.W.C.A. for college credit. \n\n
+    </string>
+
+    <string name="bio_vanessa">
+        Vanessa is sharp and sarcastic. Her behavior is comparable to that of a typical
+        teenager. She cares about her reputation, having been upset when her clothes
+        were mistakenly switched with Candace\'\s. Vanessa has always been found with the
+        punk or goth crowd, as seen in her childhood photos and her friends\'\
+        appearances \n\n
+    </string>
+
+    <string name="bio_baljeet">
+        Baljeet is an Indian boy who always gets good grades and is constantly
+        bullied by Buford. He\'\s considered a nerd and, for him, to get an F on a
+        math test is the scariest thing known to man ("One Good Scare Ought to Do It!").
+        He has moved here from India for his education. He can play various instruments,
+        including the drums and the guitar. Although it seems like all his feelings make
+        him want to do math, he actually just does a lot of math, "the feelings come
+        and go"
+    </string>
+</resources>
